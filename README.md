@@ -1,1 +1,1 @@
-<img alt="AI Agent" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="100%">
+<img alt="AI Agent" src="https://raw.githubusercontent.com/paolovalletta-exelab/paolovalletta-exelab/refs/heads/main/ai.gif" width="100%">
